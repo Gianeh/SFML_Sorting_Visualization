@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "atomic": "cpp",
+        "ios": "cpp",
+        "fstream": "cpp"
+    }
+}
