@@ -8,9 +8,15 @@ Gif of the resulting application/executable:
 ![Alt text](https://github.com/Gianeh/SFML_Sorting_Visualization/blob/main/sorting_gif.gif "Demonstration")
 
 Few algorithms implemented untill now, fully modular implementation.
+
 Commands:
+
 F1 --> Change number of elements
+
 F2 --> Change time in ms between comparison
+
 ^/v --> Change algorithm
+
 ENTER/SPACEBAR --> Start Sorting
+
 BACKSPACE --> Stop Sorting
